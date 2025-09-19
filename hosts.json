@@ -1,0 +1,12 @@
+{
+    "hosts": [
+    {
+        "hostname": "192.168.0.53",
+        "username": "alechoelscher",
+        "key_filename": "/users/alechoelscher/.ssh/id_rsa",
+        "password": null,
+        "port": 22,
+        "label": "AlecsPi5"
+    }
+    ]
+}
